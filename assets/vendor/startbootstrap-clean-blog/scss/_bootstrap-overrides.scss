@@ -10,14 +10,16 @@
 }
 
 .btn-primary {
-  background-color: $primary;
-  border-color: $primary;
+  background-color: #6b7859;
+  border-color: #6b7859;
   &:hover,
   &:focus,
   &:active {
     color: $white;
-    background-color: darken($primary, 7.5) !important;
-    border-color: darken($primary, 7.5) !important;
+    // background-color: darken($primary, 7.5) !important;
+    background-color: #384027;
+    // border-color: darken($primary, 7.5) !important;
+    border-color: #384027;
   }
 }
 

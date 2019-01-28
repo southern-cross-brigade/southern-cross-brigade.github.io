@@ -6,14 +6,16 @@
   @include sans-serif-font;
   .navbar-brand {
     font-weight: 800;
-    color: $gray-800;
+    // color: $gray-800;
+    color: #384027;
   }
   .navbar-toggler {
     font-size: 12px;
     font-weight: 800;
     padding: 13px;
     text-transform: uppercase;
-    color: $gray-800;
+    // color: $gray-800;
+    color: #384027;
   }
   .navbar-nav {
     > li.nav-item {
@@ -31,23 +33,23 @@
     .navbar-brand {
       padding: 10px 20px;
       // color: $white;
-      color: $black;
+      color: #384027;
       &:focus,
       &:hover {
         // color: fade-out($white, .2);
-        color: fade-out($black, .5);
+        color: #6b7859;
       }
     }
     .navbar-nav {
       > li.nav-item {
         > a {
           padding: 10px 20px;
-          color: $black;
+          color: #384027;
           // color: $white;
           &:focus,
           &:hover {
             // color: fade-out($white, .2);
-            color: fade-out($black, .5);
+            color: #6b7859;
           }
         }
       }
