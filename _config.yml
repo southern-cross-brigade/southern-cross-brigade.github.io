@@ -1,14 +1,15 @@
-title:             Australia Cuba Friendship Society
-email:             sydneyacfs@gmail.com
-description:       Sydney Branch
-author:            ACFS Sydney
+title:             Southern Cross Brigade
+email:             southerncrossbrigade@gmail.com
+description:       28 December 2019 - 17 January 2020
+author:            ACFS
 baseurl:           "/"
-url:               "https://sydney-acfs.github.io"
+url:               "https://southern-cross-brigade.github.io"
 
 # Social Profiles
 # twitter_username:  SBootstrap
 # github_username:   BlackrockDigital
-facebook_username: groups/ACFS.Sydney/
+facebook_username: southerncrossbrigade/
+instagram_username: southerncrossbrigadetocuba
 
 # Build settings
 markdown:          kramdown
